@@ -31,5 +31,3 @@ VulnVision Lite is a basic cybersecurity tool that performs vulnerability scanni
 ## 🎯 Objective
 To simulate real-world vulnerability scanning similar to tools like OpenVAS.
 
-## ⚠️ Disclaimer
-This project is for educational purposes only.# Vulnvision-lite
