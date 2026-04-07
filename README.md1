@@ -1,0 +1,13 @@
+# VulnVision Lite
+
+## Description
+A basic cybersecurity project for vulnerability scanning.
+
+## Features
+- Port scanning
+- Security header checking
+- Report generation
+
+## How to Run
+pip install -r requirements.txt  
+python main.py
