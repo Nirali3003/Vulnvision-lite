@@ -1,0 +1,9 @@
+VulnVision Lite is a cybersecurity project that performs basic vulnerability scanning.
+
+It identifies:
+- Open ports
+- Missing security headers
+
+It also generates a report which helps in analyzing system security.
+
+This project simulates real-world vulnerability assessment tools.
