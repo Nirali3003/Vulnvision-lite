@@ -1,0 +1,14 @@
+==== VulnVision Lite Report ====
+
+Target: example.com
+Scan Time: 2026-04-07
+
+Open Ports:
+- Port 80 is OPEN
+- Port 443 is OPEN
+
+Missing Security Headers:
+- X-Frame-Options
+- X-XSS-Protection
+
+==== End of Report ====
